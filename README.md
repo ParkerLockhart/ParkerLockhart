@@ -3,7 +3,7 @@
 ### Hey there!  
 I'm Parker.  
 
-Currently studying Back End Engineering at Turing School of Software & Design. :technologist: :books:  
+Back End Engineering student at Turing School of Software & Design :technologist: :books:  
 
 My background is in applied electrical & mechanical tech, automated industrial processes :gear: :robot:  
 
