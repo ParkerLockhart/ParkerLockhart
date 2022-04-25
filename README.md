@@ -1,11 +1,12 @@
 ![3415-vibing-frog](https://user-images.githubusercontent.com/88950699/145322416-3fb90d8e-79ef-447b-b98e-feb55d7d2c36.gif)  
 
-### Hey there!  
-I'm Parker.  
+### Parker 
 
-Back End Engineering student at Turing School of Software & Design :technologist: :books:  
+Back end engineer and control systems nerd 🧑🏻‍💻 🤓
 
 My background is in applied electrical & mechanical tech, automated industrial processes :gear: :robot:  
+
+I might be a space frog in disguise, but my mission is to be part of building a more just and equitable world here.
 
 When I'm not in front of the computer, I'm most likely to be found:   
 - outside looking at the sky :cloud_with_lightning_and_rain: :crescent_moon:   
