@@ -5,7 +5,7 @@
 ⇢ My name is Parker  
 ⇢ I'm a back end engineer and control systems nerd 🧑🏻‍💻 🤓  
 ⇢ My background is in applied electrical & mechanical tech, automated industrial processes :gear: :robot: :electron:  
-⇢ I might be a space frog in disguise, but my mission is to be part of building a more just and equitable world here.
+⇢ I might be a space frog in disguise, but my mission is to help build a more just and equitable world here.
 
 When I'm not in front of the computer, I'm most likely to be found:   
 - outside looking at the sky :cloud_with_lightning_and_rain: :crescent_moon:   
